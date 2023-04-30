@@ -24,7 +24,7 @@ Upon completion of the form, you will be provided training data.
 
 We accept results only through the google form.
 
-After the test data is released, the predictions made by the model should be provided to the organizers in csv format. The submission will be named as "teamname_subtask.csv". If your teamname is "hatewatchers" and you are submitting the results for "subtask A", your csv should be named as "hatewatchers_subtaskA.csv". The predictions should be submitted in the google form (provided after release of test data). The submission will be evaluated with a macro average f1-score. More about macro f1-score can be found [here](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
+After the test data is released, the predictions made by the model should be provided to the organizers in csv format. The submission will be named as "teamname_subtask.csv". If your teamname is "hatewatchers" and you are submitting the results for "subtask A", your csv should be named as "hatewatchers_subtaskA.csv". The predictions should be submitted in the google form (provided after release of test data). The format in which csv file should be in wil be communicated after the release of test data. The submission will be evaluated with a macro average f1-score. More about macro f1-score can be found [here](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
 
 ## Timeline of the Events ##
 <ul>
