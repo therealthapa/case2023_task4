@@ -11,6 +11,7 @@ The dataset for this sub-task has two labels viz. "Hate Speech" and "No Hate Spe
 <b> Target Detection:</b> The goal of this subtask is to identify the targets of hate speech in a given hateful text-embedded image. The text-embedded images are annotated for "community", "individual" and "organization" targets.
 
 To know more about the dataset, please refer to our [paper](Paper/crisishatemm.pdf).
+The sample codes for both the subtasks are provided in the repo. 
 
 
 ## Participation ##
