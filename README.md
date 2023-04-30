@@ -13,7 +13,39 @@ The dataset for this sub-task has two labels viz. "Hate Speech" and "No Hate Spe
 To know more about the dataset, please refer to our [paper](Paper/crisishatemm.pdf).
 
 
+## Participation ##
 
+In order to participate in the competition, please fill out the form provided [here](https://forms.gle/qEVTUvPBRC7Q3zhAA). 
+
+You will be provided training data.
+
+## Evaluation ## 
+
+We accept results only through the google form.
+
+After the test data is released, the predictions made by the model should be provided to the organizers in csv format. The submission will be named as "teamname_subtask.csv". If your teamname is "hatewatchers" and you are submitting the results for "subtask A", your csv should be named as "hatewatchers_subtaskA.csv". The predictions should be submitted in the google form (provided after release of test data). The submission will be evaluated with a macro average f1-score. More about macro f1-score can be found [here](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
+
+## Timeline of the Events ##
+<ul>
+
+<li>Task Announcement: May 01, 2023 </li>
+
+<li>Release of the training data: May 01, 2023 </li>
+
+<li>Release of Test Data: June 15, 2023 </li>
+
+<li>Run Submission Deadline: June 30, 2023 </li>
+
+<li>Results Declared: July 01, 2023 </li>
+
+<li>Paper Submission: July 10, 2023 </li>
+
+<li>Peer Review Notification: Aug 05, 2023 </li>
+
+<li>Camera-ready Versions: Aug 25, 2023 </li>
+
+<li>CASE Workshop: 7-8 September </li>
+</ul>
 
 ## References ##
 
