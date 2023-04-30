@@ -47,6 +47,9 @@ After the test data is released, the predictions made by the model should be pro
 <li>CASE Workshop: 7-8 September </li>
 </ul>
 
+## Contact ##
+If there are any questions related to the competition, please contact surendrabikram@vt.edu
+
 ## References ##
 
 If you use the dataset, please cite as follows:
