@@ -50,10 +50,10 @@ After the test data is released, the predictions made by the model should be pro
 
 ## Organizers ##
 <ul>
-<li> Surendrabikram Thapa </li>
-<li> Usman Naseem </li>
-<li> Farhan Ahmad Jafri </li>
-<li> Ali Hürriyetoğlu </li>
+<li> Surendrabikram Thapa (Virginia Tech, USA) </li>
+<li> Usman Naseem (University of Sydney, Australia) </li>
+<li> Farhan Ahmad Jafri (Jamia Millia Islamia, India) </li>
+<li> Ali Hürriyetoğlu (KNAW Humanities Cluster DHLab, Netherlands) </li>
 </ul>
 
 ## Contact ##
