@@ -18,7 +18,7 @@ The sample codes for both the subtasks are provided in the repo.
 
 In order to participate in the competition, please fill out the form provided [here](https://forms.gle/qEVTUvPBRC7Q3zhAA). 
 
-You will be provided training data.
+Upon completion of the form, you will be provided training data.
 
 ## Evaluation ## 
 
