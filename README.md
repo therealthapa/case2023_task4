@@ -1,4 +1,4 @@
-# Task 4 - Shared task on Multimodal Hate Speech Detection at [CASE 2023](https://emw.ku.edu.tr/case-2023/) #
+# Task 4 - Shared task on Multimodal Hate Speech Event Detection at [CASE 2023](https://emw.ku.edu.tr/case-2023/) #
 
 Hate speech detection is one of the most important aspects of event identification during political events like invasions. In the case of hate speech detection, the event is the occurrence of hate speech, the entity is the target of the hate speech, and the relationship is the connection between the two. Since multimodal content is widely prevalent across the internet, the detection of hate speech in text-embedded images is very important. Given a text-embedded image, this task aims to automatically identify the hate speech and its targets. This task will have two subtasks.
 
@@ -59,7 +59,7 @@ Top performing teams and best models will be invited for an special issue in jou
 
 <li>Release of Test Data: June 15, 2023 </li>
 
-<li>Run Submission Deadline: June 30, 2023 </li>
+<li>Test Submission Deadline: June 30, 2023 </li>
 
 <li>Results Declared: July 01, 2023 </li>
 
