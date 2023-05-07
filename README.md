@@ -75,7 +75,7 @@ Top performing teams and best models will be invited for an special issue in jou
 <li> Surendrabikram Thapa (Virginia Tech, USA) </li>
 <li> Usman Naseem (University of Sydney, Australia) </li>
 <li> Farhan Ahmad Jafri (Jamia Millia Islamia, India) </li>
-<li> Francielle Vargas, University of São Paulo </li>
+<li> Francielle Vargas (University of São Paulo, Brazil) </li>
 </ul>
 
 ## Contact ##
