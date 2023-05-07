@@ -53,21 +53,19 @@ Top performing teams and best models will be invited for an special issue in jou
 ## Timeline of the Events ##
 <ul>
 
-<li>Task Announcement: May 01, 2023 </li>
+<li>Training & Validation data available: May 1, 2023 </li>
 
-<li>Release of the training data: May 01, 2023 </li>
+<li>Test data available: Jun 15, 2023  </li>
 
-<li>Release of Test Data: June 15, 2023 </li>
+<li>Test start: Jun 15, 2023  </li>
 
-<li>Test Submission Deadline: June 30, 2023 </li>
+<li>Test end: Jun 30, 2023  </li>
 
-<li>Results Declared: July 01, 2023 </li>
+<li>System Description Paper submissions due: Jul 10, 2023</li>
 
-<li>Paper Submission: July 10, 2023 </li>
+<li>Notification to authors after review: Aug 5, 2023 </li>
 
-<li>Peer Review Notification: Aug 05, 2023 </li>
-
-<li>Camera-ready Versions: Aug 25, 2023 </li>
+<li>Camera ready: Aug 25, 2023 </li>
 
 <li>CASE Workshop: 7-8 September </li>
 </ul>
