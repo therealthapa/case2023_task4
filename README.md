@@ -23,10 +23,9 @@ Upon completion of the form, you will be provided training data and evaluation d
 
 ## Evaluation ## 
 
-We accept results only through the google form.
+The results are only accepted in codalab. The submission will be evaluated with a f1-score.
 
-After the test data is released, the predictions made by the model should be provided to the organizers in csv format. The submission will be named as "teamname_subtask.csv". If your teamname is "hatewatchers" and you are submitting the results for "subtask A", your csv should be named as "hatewatchers_subtaskA.csv". The predictions should be submitted in the google form (provided after release of test data). The format in which csv file should be in is given below. The submission will be evaluated with a macro average f1-score. More about macro f1-score can be found [here](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
-
+The script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. We will only take the first file in the zip folder, so do not zip multiple files together. 
 
 For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
@@ -55,7 +54,7 @@ Top performing teams and best models will be invited for an special issue in jou
 ## Timeline of the Events ##
 <ul>
 
-<li>Training & Validation data available: May 1, 2023 </li>
+<li>Training & Evaluation data available: May 1, 2023 </li>
 
 <li>Test data available: Jun 15, 2023  </li>
 
