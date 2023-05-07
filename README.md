@@ -17,8 +17,9 @@ The sample codes for both the subtasks are provided in the repo.
 ## Participation ##
 
 In order to participate in the competition, please fill out the form provided [here](https://forms.gle/qEVTUvPBRC7Q3zhAA). 
+Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/13087).
 
-Upon completion of the form, you will be provided training data.
+Upon completion of the form, you will be provided training data and evaluation data.
 
 ## Evaluation ## 
 
@@ -29,18 +30,19 @@ After the test data is released, the predictions made by the model should be pro
 
 For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
-| ImageID    | Label   |
-|------------|---------|
-| image0001  | 1       | 
-| image0002  | 0       | 
+```python
+{"index": 98452, "prediction": 1}
+{"index": 45865, "prediction": 0}
+{"index": 23568, "prediction": 1}
+```
 
 Similarly, for the subtask B, the final prediction submissions should be like the following. Make sure that your individual, community, and organization labels are given as "0", "1", and "2" respectively.
 
-| ImageID    | Label   |
-|------------|---------|
-| image0001  | 1       | 
-| image0007  | 0       | 
-| image0008  | 2       |
+```python
+{"index": 45865, "prediction": 0}
+{"index": 23568, "prediction": 1}
+{"index": 36987, "prediction": 2}
+```
 
 
 ## Publication ##
