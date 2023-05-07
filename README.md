@@ -19,7 +19,7 @@ The sample codes for both the subtasks are provided in the repo.
 In order to participate in the competition, please fill out the form provided [here](https://forms.gle/qEVTUvPBRC7Q3zhAA). 
 Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/13087).
 
-Upon completion of the form, you will be provided training data and evaluation data.
+Upon completion of the form, you will be provided training data and evaluation data. Link for testing data will be provided to all the registered participants on June 15, 2023. 
 
 ## Evaluation ## 
 
@@ -27,22 +27,24 @@ The results are only accepted in codalab. The submission will be evaluated with 
 
 The script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. We will only take the first file in the zip folder, so do not zip multiple files together. 
 
+<b>IMPORTANT:</b> The index in json should be in ascending order.
+
 For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
 ```python
-{"index": 98452, "prediction": 1}
-{"index": 45865, "prediction": 0}
 {"index": 23568, "prediction": 1}
+{"index": 45865, "prediction": 0}
+{"index": 98452, "prediction": 1}
 ```
 
 Similarly, for the subtask B, the final prediction submissions should be like the following. Make sure that your individual, community, and organization labels are given as "0", "1", and "2" respectively.
 
 ```python
-{"index": 45865, "prediction": 0}
 {"index": 23568, "prediction": 1}
 {"index": 36987, "prediction": 2}
+{"index": 45865, "prediction": 0}
 ```
-
+<b>IMPORTANT:</b> The index in json should be in ascending order.
 
 ## Publication ##
 
