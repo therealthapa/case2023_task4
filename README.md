@@ -21,13 +21,16 @@ Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competition
 
 Upon completion of the form, you will be provided training data and evaluation data. Link for testing data will be provided to all the registered participants on June 15, 2023. 
 
+## Dataset ## 
+All the images have unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
+
 ## Evaluation ## 
 
 The results are only accepted in codalab. The submission will be evaluated with a f1-score.
 
 The script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. We will only take the first file in the zip folder, so do not zip multiple files together. 
 
-<b>IMPORTANT:</b> The index in json should be in ascending order.
+<b>IMPORTANT:</b> The index (image name) in json should be in ascending order.
 
 For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
@@ -44,7 +47,7 @@ Similarly, for the subtask B, the final prediction submissions should be like th
 {"index": 36987, "prediction": 2}
 {"index": 45865, "prediction": 0}
 ```
-<b>IMPORTANT:</b> The index in json should be in ascending order.
+<b>IMPORTANT:</b> The index (image name) in json should be in ascending order.
 
 ## Publication ##
 
