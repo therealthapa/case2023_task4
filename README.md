@@ -24,6 +24,9 @@ Upon completion of the form, you will be provided training data and evaluation d
 ## Dataset ## 
 All the images have unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
+## Instructions for OCR Extraction ##
+If you want to extract OCR, you can use Google vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/aabhandari/CrisisHateMM/blob/main/OCR.ipynb).
+
 ## Evaluation ## 
 
 The results are only accepted in codalab. The submission will be evaluated with a f1-score.
