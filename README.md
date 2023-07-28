@@ -105,3 +105,14 @@ If you use the dataset, please cite as follows:
   year={2023}
 }
 ```
+
+All the papers submitted as shared task report should cite the shared task as follows:
+
+```bibtex
+@inproceedings{thapa2023multimodal,
+  title={ Multimodal Hate Speech Event Detection - Shared Task 4, CASE 2023},
+  author={Thapa, Surendrabikram and Jafri, Farhan Ahmad and H{\"u}rriyeto{\u{g}}lu, Ali and Vargas, Francielle and Lee, Roy Ka-Wei and Naseem, Usman},
+  booktitle={Proceedings of the 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)},
+  year={2023}
+}
+```
