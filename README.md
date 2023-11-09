@@ -1,4 +1,4 @@
-${\color{red}For the 2024 edition, visit: [Multimodal Hate Speech Event Detection at CASE@EACL2024](https://github.com/therealthapa/case2024-multimodal-hate)}$
+# For the 2024 edition, visit: [Multimodal Hate Speech Event Detection at CASE@EACL2024](https://github.com/therealthapa/case2024-multimodal-hate) #
 
 
 # Shared task on Multimodal Hate Speech Event Detection at [CASE 2023](https://emw.ku.edu.tr/case-2023/) #
